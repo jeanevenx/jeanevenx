@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jean Evenx
-- 👀 I’m interested in Web Development, Mobile Development and AI 
-- 🌱 I’m currently learning Software Engineering and Web Development
+- 👋 Hi, I’m Jean Evenx!
+- 🌱 I'm currently studying for my degree in software engineering.
+- 👀 I'm interested in learning more about programming languages, software development, web development and AI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanevenx&layout=compact)](https://github.com/jeanevenx)
 
