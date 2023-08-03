@@ -1,5 +1,10 @@
 ![Presentation](./intro-git.gif)
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jeanevenx)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jeanevenx/)
+
+
 ## Soft Skills
 - **Leadership**
 - **Problem Solving**  
@@ -73,7 +78,6 @@
   
     Strong background in mathematics, including calculus, linear algebra, and statistics.
 
-![GitHub Repositories](https://img.shields.io/badge/Repositories-10-brightgreen)
 
 
 
