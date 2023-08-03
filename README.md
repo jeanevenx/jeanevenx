@@ -78,12 +78,10 @@
   
     Strong background in mathematics, including calculus, linear algebra, and statistics.
 
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeanevenx&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/jeanevenx)
-
+ ![GitHub Contribution Calendar](https://ghchart.rshah.org/jeanevenx)[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeanevenx&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeanevenx)
+
+
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jeanevenx)
   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/)
