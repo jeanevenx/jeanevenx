@@ -1,0 +1,19 @@
+name: Generate GitHub Readme Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: Update README with GitHub Readme Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v2
+
+      - name: Generate README stats
+        uses: teoxoy/profile-readme-stats@v1
+        with:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
