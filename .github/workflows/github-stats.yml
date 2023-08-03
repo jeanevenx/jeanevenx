@@ -16,4 +16,4 @@ jobs:
       - name: Generate README stats
         uses: teoxoy/profile-readme-stats@v1
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.READSTATS_TOKEN }}
