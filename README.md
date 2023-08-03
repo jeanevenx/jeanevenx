@@ -1,9 +1,15 @@
 ![Presentation](./intro-git.gif)
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jeanevenx)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jeanevenx/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeanevenx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@jeanevenx/">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/" alt="Medium">
+  </a>
+  <a href="https://www.instagram.com/jeanevenx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram">
+  </a>
+</p>
 
 ## Soft Skills
 - **Leadership**
@@ -79,42 +85,23 @@
     Strong background in mathematics, including calculus, linear algebra, and statistics.
   <br/> <br/>
 
- [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeanevenx&column=8)](https://github.com/ryo-ma/github-profile-trophy) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeanevenx)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeanevenx&theme=matrix&margin-w=5&row=1&column=8">
+   <br/> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanevenx">
+</p>
 
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jeanevenx)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jeanevenx/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+ <br/> <br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeanevenx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@jeanevenx/">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/" alt="Medium">
+  </a>
+  <a href="https://www.instagram.com/jeanevenx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram">
+  </a>
+</p>
