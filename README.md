@@ -73,6 +73,9 @@
   
     Strong background in mathematics, including calculus, linear algebra, and statistics.
 
+![GitHub Repositories](https://img.shields.io/badge/Repositories-10-brightgreen)
+
+
 
 
 
