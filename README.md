@@ -45,6 +45,8 @@
   ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white&style=flat)
   ![Lombok](https://img.shields.io/badge/-Lombok-BCB88A?logo=lombok&logoColor=black&style=flat)
   ![Spring Web](https://img.shields.io/badge/-Spring_Web-6DB33F?logo=spring&logoColor=white&style=flat)
+  ![Spring Boot Test](https://img.shields.io/badge/Spring_Boot_Test-3.1.1-green)
+
 
 
 
