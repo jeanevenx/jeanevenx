@@ -40,6 +40,7 @@
 - **BACKEND:**
   
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+  ![JUnit](https://img.shields.io/badge/JUnit-5.9.3-brightgreen)
   ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
   ![JPA](https://img.shields.io/badge/-JPA-5B67D8?logo=java&logoColor=white&style=flat)
   ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white&style=flat)
