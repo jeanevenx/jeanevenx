@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/jeanevenx">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
   </a>
+   <a href="https://codepen.io/evenx">
+    <img src="https://img.shields.io/badge/CodePen-evenx-blue?logo=codepen" alt="CodePen">
+  </a>
   <a href="https://medium.com/@jeanevenx/">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@jeanevenx/" alt="Medium">
   </a>
